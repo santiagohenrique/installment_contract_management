@@ -1,7 +1,7 @@
-# Gerenciamento de Inventário de Produtos
+# Gerenciamento de Parcelas de Contrato
 
 ## Descrição
-- O projeto "Gerenciamento de Inventário de Produtos" é uma aplicação Java que gerencia contratos de pagamento e suas respectivas parcelas. Ele permite ao usuário inserir dados de um contrato, como número, data e valor total, e em seguida, calcula as parcelas com base no número fornecido. Utiliza serviços de pagamento online para processar as parcelas.
+- O projeto "Gerenciamento de Parcelas de Contrato" é uma aplicação Java que gerencia contratos de pagamento e suas respectivas parcelas. Ele permite ao usuário inserir dados de um contrato, como número, data e valor total, e em seguida, calcula as parcelas com base no número fornecido. Utiliza serviços de pagamento online para processar as parcelas.
 
 ## Características
 - Insere os dados do contrato: número, data e valor total.
