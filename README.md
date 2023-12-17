@@ -14,4 +14,3 @@
 - Compile o código Java usando seu compilador Java preferido.
 - Execute o aplicativo compilado.
 - Siga as demais instruções na tela para inserir os dados.
-- O arquivo de leitura usado no projeto está com nome de "in.txt".
